@@ -1,0 +1,2 @@
+window.__tnt||(window.__tnt={});(function(t,n,e,d,i){var w=d.advertisements||(d.advertisements={})})(window,document,jQuery,__tnt);
+//# sourceMappingURL=/tmp/git2rpm-tncms-templates-flex-e943a43c-5ade-41d6-a3df-aea1ff512b4b/usr/local/share/content/art/tncms/templates/libraries/flex/components/ads/resources/scripts/tnt.ads.advertisements.66a3812a7b5c12fde8cd998fd691ad7d.js.map

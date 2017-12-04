@@ -1,0 +1,1 @@
+﻿_tynt_crtg_content = ''; (function(){document.cookie = '_tynt_crtg=' + escape(_tynt_crtg_content) + '; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT';})();
